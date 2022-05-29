@@ -3,6 +3,7 @@ My Project will help automobile industry to harness data by visualization of gra
 
 *Competition in locality --->using industries(users) current location(function used geo_data)
 
+
 *Price Prediction--->Trend of price of trusted brands(trained data using linear regression used from sklearn linear model)
 
 *Clustering--->Customer Segmentation (using Kmeans Clustering from kmeans clusters)
